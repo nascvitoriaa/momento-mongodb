@@ -92,6 +92,3 @@ db.funcionarios.aggregate([
 
 ---
 
-## Conclusão Geral
-Esta etapa forneceu uma visão clara dos custos de pessoal e estrutura salarial da Momento. Identificamos o peso do departamento de Vendas, a forte média salarial da liderança executiva e insights para potenciais análises de eficiência e alocação futura.
-
